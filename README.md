@@ -44,7 +44,7 @@ El resultado de esta captura de datos es un registro de la frecuencia de parpade
 
 Para ilustrar el proceso, se incluye la imagen `captura_parpadeo.JPG`, que muestra dos estados de los ojos: uno con los ojos abiertos, donde se pueden observar los seis puntos que OpenCV detecta, y otro con los ojos cerrados. Esta comparación visual resalta cómo se incrementa la cantidad de parpadeos en diferentes contextos. 
 
-![Proceso de Captura de Parpadeo](img/captura_parpadeo.JPG)
+![Proceso de Captura de Parpadeo](img/captura_parpadeo.jpg)
 
 ### Nombres de los Datasets y Estructura
 1. **registros_parpadeo_capturado**:
@@ -64,19 +64,19 @@ La disponibilidad de estos datasets y la metodología utilizada en la captura pe
 
 ### 1. Comparación Total de Parpadeos en 60 Minutos
 Se comparan los totales de parpadeos registrados en ambos contextos para observar las diferencias en la frecuencia de parpadeo.
-![Comparación Total de Parpadeos](img/1 - comparacion total de parpadeos.png)
+![Comparación Total de Parpadeos](img/1comparacion_total_parpadeos.png)
 
 ### 2. Distribución de Tipos de Parpadeos
 Este análisis compara la frecuencia de dos tipos de parpadeo: aquellos que ocurren en condiciones normales y aquellos capturados mientras una persona está frente a una pantalla.
-![Distribución de Parpadeos](img/distribucion_de_parpadeos.png)
+![Distribución de Parpadeos](img/2distribucion_parpadeos.png)
 
 ### 3. Comparación en Intervalos de 10 Minutos
 Se organizan los datos en intervalos de 10 minutos para realizar un análisis detallado de cómo evoluciona la frecuencia de parpadeo a lo largo del tiempo.
-![Comparación Intervalos de 10 Minutos](img/comparacion_intervalos_10_min.png)
+![Comparación Intervalos de 10 Minutos](img/3comparacion_intervalos10min.png)
 
 ### 4. Comparación en Intervalos de 5 Minutos
 Este gráfico complementa el análisis anterior, proporcionando una comparación más detallada en intervalos de 5 minutos.
-![Comparación Intervalos de 5 Minutos](img/comparacion_intervalos_5_min.png)
+![Comparación Intervalos de 5 Minutos](img/4comparacionintervalos5min.png)
 
 
 ## **Conclusiones**
