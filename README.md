@@ -76,7 +76,7 @@ Se organizan los datos en intervalos de 10 minutos para realizar un análisis de
 
 ### 4. Comparación en Intervalos de 5 Minutos
 Este gráfico complementa el análisis anterior, proporcionando una comparación más detallada en intervalos de 5 minutos.
-![Comparación Intervalos de 5 Minutos](img/4comparacionintervalos5min.png)
+![Comparación Intervalos de 5 Minutos](img/4comparacion_intervalos5min.png)
 
 
 ## **Conclusiones**
