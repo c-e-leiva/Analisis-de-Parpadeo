@@ -1,4 +1,4 @@
-# 📊 Análisis Comparativo de la Frecuencia de Parpadeo en Diferentes Entornos
+# 📊 Análisis de la Frecuencia de Parpadeo en Diferentes Entornos
 
 ## **Contenido**
 - [Descripción del Proyecto](#descripción-del-proyecto)
@@ -35,7 +35,7 @@ pip install opencv-python matplotlib pandas
 ## **Carga y Descripción del Dataset**
 Los datasets utilizados en este análisis se generaron mediante un script en Python, utilizando la biblioteca OpenCV para la captura de parpadeos. Esta metodología permite obtener datos precisos sobre la frecuencia de parpadeo en diferentes entornos, facilitando la comparación entre el uso de pantallas y condiciones normales sin pantallas. Los datasets generados están disponibles en mi repositorio de GitHub para facilitar la reproducibilidad del estudio.
 
-### 📊 Proceso de Captura de Parpadeo
+### Proceso de Captura de Parpadeo
 Para la captura de parpadeos, se desarrolló un script en Python que utiliza OpenCV, una biblioteca ampliamente utilizada para la visión computarizada. Esta herramienta permite detectar características faciales y movimientos oculares en tiempo real. El script está diseñado para activar la cámara y monitorizar el rostro del usuario, identificando específicamente los ojos. Se implementó un temporizador programado que registra cada parpadeo detectado durante un período de 60 minutos, almacenando estos datos en un dataset.
 
 OpenCV utiliza modelos preentrenados para detectar los ojos y rastrear su apertura y cierre. Durante el proceso, se identifican puntos clave en el área de los ojos, lo que permite calcular cuándo se produce un parpadeo. Este sistema de visión artificial es fundamental, ya que permite que el script opere de manera efectiva, incluso en condiciones de iluminación variadas.
@@ -87,8 +87,7 @@ Es crucial considerar los efectos de la fatiga ocular en entornos de intensa con
 La disponibilidad de los datasets generados y los scripts de captura permite replicar este estudio, promoviendo investigaciones adicionales en esta área. Así, este proyecto no solo se centra en el análisis exploratorio de datos y la visión computarizada, sino que también traduce situaciones de la vida real en un análisis concreto y aplicable, fomentando una práctica consciente que priorice la salud ocular en un mundo cada vez más digital.
 
 ## **Agradecimientos**
-Gracias por leer este análisis. Espero que haya sido informativo y contribuya a fomentar hábitos más saludables en el uso de la tecnología. 🙏💻
-
+Gracias por leer este análisis. Espero que haya sido informativo y contribuya a fomentar hábitos más saludables en el uso de la tecnología. 🙏
 Estoy abierto a recibir contribuciones y sugerencias que puedan ampliar la información presentada en este estudio. La investigación en este campo es continua, y siempre hay espacio para aprender más sobre la salud ocular y el impacto del entorno digital en nuestros hábitos visuales. 
 
 Agradezco cualquier aporte que enriquezca esta área de estudio y me permita seguir en el camino del aprendizaje y la mejora personal.
