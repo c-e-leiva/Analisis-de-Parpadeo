@@ -64,7 +64,7 @@ La disponibilidad de estos datasets y la metodología utilizada en la captura pe
 
 ### 1. Comparación Total de Parpadeos en 60 Minutos
 Se comparan los totales de parpadeos registrados en ambos contextos para observar las diferencias en la frecuencia de parpadeo.
-![Comparación Total de Parpadeos](img/comparacion_total_de_parpadeos.png)
+![Comparación Total de Parpadeos](img/1 - comparacion total de parpadeos.png)
 
 ### 2. Distribución de Tipos de Parpadeos
 Este análisis compara la frecuencia de dos tipos de parpadeo: aquellos que ocurren en condiciones normales y aquellos capturados mientras una persona está frente a una pantalla.
