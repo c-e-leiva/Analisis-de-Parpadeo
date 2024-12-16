@@ -19,7 +19,7 @@ El objetivo final de este estudio es promover la importancia del cuidado ocular,
 
 ## Demostración en YouTube
 
-Puedes ver una demostración del proyecto en el siguiente enlace: [CHATBOT-ESPIRITUAL](https://www.youtube.com/watch?v=IdHGOv9CN5k)
+Puedes ver una demostración del proyecto en el siguiente enlace: [Análisis de Parpadeos con Visión Artificial](https://www.youtube.com/watch?v=IdHGOv9CN5k)
 
 
 ## **Tecnologías y Librerías Utilizadas**
