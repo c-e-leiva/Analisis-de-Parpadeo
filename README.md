@@ -17,6 +17,10 @@ A través de la recopilación y análisis de datos sobre la frecuencia de parpad
 
 El objetivo final de este estudio es promover la importancia del cuidado ocular, concienciando sobre la necesidad de realizar pausas regulares y adoptar prácticas saludables para mitigar los efectos adversos del uso prolongado de dispositivos electrónicos. Se espera que los resultados obtenidos no solo contribuyan a la comprensión de cómo el entorno digital afecta nuestra salud visual, sino que también sirvan como base para futuras investigaciones en esta área, fomentando un enfoque más consciente y saludable hacia el uso de tecnología.
 
+## Demostración en YouTube
+
+Puedes ver una demostración del proyecto en el siguiente enlace: [CHATBOT-ESPIRITUAL](https://www.youtube.com/watch?v=IdHGOv9CN5k)
+
 
 ## **Tecnologías y Librerías Utilizadas**
 - **Python**: Lenguaje de programación utilizado para generar los scripts para la captura y análisis de datos.
